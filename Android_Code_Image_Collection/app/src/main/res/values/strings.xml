@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ByteMaker</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="upload_pciture">Upload Picture</string>
+</resources>
